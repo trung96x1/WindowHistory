@@ -1,0 +1,6 @@
+C:\Users\Trung96x1\Documents\Visual Studio 2013\Projects\WPF DESIGN\WindowHistory\WindowHistory\bin\Debug\WindowHistory.exe.config
+C:\Users\Trung96x1\Documents\Visual Studio 2013\Projects\WPF DESIGN\WindowHistory\WindowHistory\bin\Debug\WindowHistory.exe
+C:\Users\Trung96x1\Documents\Visual Studio 2013\Projects\WPF DESIGN\WindowHistory\WindowHistory\bin\Debug\WindowHistory.pdb
+C:\Users\Trung96x1\Documents\Visual Studio 2013\Projects\WPF DESIGN\WindowHistory\WindowHistory\obj\Debug\WindowHistory.csprojResolveAssemblyReference.cache
+C:\Users\Trung96x1\Documents\Visual Studio 2013\Projects\WPF DESIGN\WindowHistory\WindowHistory\obj\Debug\WindowHistory.exe
+C:\Users\Trung96x1\Documents\Visual Studio 2013\Projects\WPF DESIGN\WindowHistory\WindowHistory\obj\Debug\WindowHistory.pdb
